@@ -1,20 +1,32 @@
-# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/UbXpRv5ApKA
+# Sensai
 
-![sensai](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
+Welcome to the Sensai project! This project is deployed on Vercel and can be accessed at the following link:
 
-### Make sure to create a `.env` file with following variables -
+[https://sensai-seven-silk.vercel.app/](https://sensai-seven-silk.vercel.app/)
 
-```
-DATABASE_URL=
+## Demo
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
+You can view a demo of the project at the following link:
 
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+[Demo Link](https://drive.google.com/drive/u/2/folders/12ZIEBeAuMboVWHonMeD2uRMsn9JnKMVV)
 
-GEMINI_API_KEY=
-```
+## Installation
+
+To install and run the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sadiya-125/sensai.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd sensai
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
