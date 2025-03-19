@@ -16,11 +16,11 @@ To install and run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sadiya-125/sensai.git
+   git clone https://github.com/Sadiya-125/Hack4Good-2025-Sensai.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd sensai
+   cd Hack4Good-2025-Sensai
    ```
 3. Install dependencies:
    ```bash
