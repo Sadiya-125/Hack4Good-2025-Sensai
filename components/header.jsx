@@ -35,7 +35,6 @@ export default async function Header() {
           />
         </Link>
 
-        {/* Action Buttons */}
         <div className="flex items-center space-x-2 md:space-x-4">
           <SignedIn>
             <Link href="/dashboard">
@@ -51,7 +50,6 @@ export default async function Header() {
               </Button>
             </Link>
 
-            {/* Growth Tools Dropdown */}
             <DropdownMenu>
               <DropdownMenuTrigger asChild>
                 <Button className="flex items-center gap-2">

@@ -9,8 +9,8 @@ import { dark } from "@clerk/themes";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "AI Career Coach",
-  description: "AI Career Coach",
+  title: "Sensai - AI Career Coach",
+  description: "Sensai - AI Career Coach",
 };
 
 export default function RootLayout({ children }) {
