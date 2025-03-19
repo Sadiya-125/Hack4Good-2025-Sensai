@@ -2,7 +2,7 @@
 
 Welcome to the Sensai project! This project is deployed on Vercel and can be accessed at the following link:
 
-[https://sensai-seven-silk.vercel.app/](https://sensai-seven-silk.vercel.app/)
+[Deployed Website](https://sensai-seven-silk.vercel.app/)
 
 ## Demo
 
