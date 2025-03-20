@@ -2,7 +2,7 @@
 
 Welcome to the Sigma AI! This project is deployed on Vercel and can be accessed at the following link:
 
-[Deployed Website](https://sensai-seven-silk.vercel.app/)
+[Deployed Website](https://sigma-ai-career-coach.vercel.app/)
 
 ## Demo
 
