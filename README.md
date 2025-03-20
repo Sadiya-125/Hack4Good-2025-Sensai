@@ -1,6 +1,6 @@
-# Sensai
+# Sigma AI
 
-Welcome to the Sensai project! This project is deployed on Vercel and can be accessed at the following link:
+Welcome to the Sigma AI! This project is deployed on Vercel and can be accessed at the following link:
 
 [Deployed Website](https://sensai-seven-silk.vercel.app/)
 
@@ -16,11 +16,11 @@ To install and run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sadiya-125/Hack4Good-2025-Sensai.git
+   git clone https://github.com/Sadiya-125/Hack4Good-2025-Sigma-AI.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Hack4Good-2025-Sensai
+   cd Hack4Good-2025-Sigma-AI
    ```
 3. Install dependencies:
    ```bash
