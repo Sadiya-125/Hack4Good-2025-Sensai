@@ -149,10 +149,10 @@ export default function ResumeBuilder({ initialContent }) {
   return (
     <div data-color-mode="light" className="space-y-4">
       <div className="flex flex-col md:flex-row justify-between items-center gap-2">
-        <h1 className="font-bold gradient-title text-5xl md:text-6xl">
+        <h1 className="font-bold gradient-title text-5xl md:text-6xl px-5">
           Resume Builder
         </h1>
-        <div className="space-x-2">
+        <div className="space-x-2 px-5">
           <Button
             variant="destructive"
             onClick={handleSubmit(onSubmit)}
@@ -186,7 +186,7 @@ export default function ResumeBuilder({ initialContent }) {
         </div>
       </div>
 
-      <Tabs value={activeTab} onValueChange={setActiveTab}>
+      <Tabs value={activeTab} onValueChange={setActiveTab} className="px-5">
         <TabsList>
           <TabsTrigger value="edit">Form</TabsTrigger>
           <TabsTrigger value="preview">Markdown</TabsTrigger>
