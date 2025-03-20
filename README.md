@@ -3,6 +3,7 @@
 Welcome to the Sigma AI! Sigma AI provides AI-driven Career Insights, Mock Interview Generation, Resume Building, and Personalized Career Guidance.
 
 🔗 Live Demo: [Website Link](https://sigma-ai-career-coach.vercel.app/)
+
 🎥 Project Walkthrough: [Demo Link](https://drive.google.com/drive/u/2/folders/12ZIEBeAuMboVWHonMeD2uRMsn9JnKMVV)
 
 ## Features
