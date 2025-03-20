@@ -116,7 +116,7 @@ export default function LandingPage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
             {testimonial.map((testimonial, index) => (
               <Card key={index} className="bg-background">
-                <CardContent className="pt-6">
+                <CardContent className="pt-1">
                   <div className="flex flex-col space-y-4">
                     <div className="flex items-center space-x-4 mb-4">
                       <div className="relative h-12 w-12 flex-shrink-0">
@@ -144,7 +144,7 @@ export default function LandingPage() {
                           &quot;
                         </span>
                         {testimonial.quote}
-                        <span className="text-3xl text-primary absolute -bottom-4">
+                        <span className="px-1.5 text-3xl text-primary absolute -bottom-2">
                           &quot;
                         </span>
                       </p>
