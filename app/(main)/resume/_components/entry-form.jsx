@@ -60,7 +60,7 @@ export function EntryForm({ type, entries, onChange }) {
 
     onChange([...entries, formattedEntry]);
 
-    reset();
+    // reset();
     setIsAdding(false);
   });
 
